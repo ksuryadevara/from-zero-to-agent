@@ -14,7 +14,7 @@ Complete source code for the 12-part blog series published on Medium.
 
 | Post | Title | Status |
 |------|-------|--------|
-| 1 | What Your Training Didn't Tell You | ✅ Published |
+| 1 | [What Your Training Didn't Tell You](https://medium.com/@ksuryadevara/from-zero-to-agent-understanding-ai-by-building-it-b880908b12d9) | ✅ Published |
 | 2 | The Hardest Problem Is Also the Most Obvious | 🔜 Coming Soon |
 | 3 | How a Machine Reads | 🔜 Coming Soon |
 | 4 | Attention — The Idea That Changed Everything | 🔜 Coming Soon |
