@@ -137,9 +137,3 @@ who work with data seriously and are now being asked to build with AI.
 ```
 
 ---
-
-## Step 5 — Verify requirements.txt
-
-Open `requirements.txt` and make sure it contains exactly one line:
-```
-numpy
