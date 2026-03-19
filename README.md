@@ -132,8 +132,7 @@ who work with data seriously and are now being asked to build with AI.
 ---
 
 *Karthik Suryadevara*
-*Founder, IoTantra Technologies, Hyderabad*
-*github.com/ksuryadevara*
-```
 
----
+*Founder, IoTantra Technologies, Hyderabad*
+
+*github.com/ksuryadevara*
